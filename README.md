@@ -2,16 +2,15 @@
 Benchmark of out-of-core multi-dimensional arrays
 
 # Pre-requisites
-
-Bash: GNU bash, version 4.2.46(1)-release (x86_64-redhat-linux-gnu)
-Snakemake: 6.0.5
-Singularity: 3.5.3
-matter (R/Bioconductor): 1.16.1
-rTensor (R/CRAN): 1.4.1
-DelayedArray (R/Bioconductor): 0.16.3
-HDF5Array (R/Bioconductor): 1.18.1
-TileDBArray (R/Bioconductor): 1.1.3
-DelayedTensor (GitHub): 0.0.1.9000
+- Bash: GNU bash, version 4.2.46(1)-release (x86_64-redhat-linux-gnu)
+- Snakemake: 6.0.5
+- Singularity: 3.5.3
+- matter (R/Bioconductor): 1.16.1
+- rTensor (R/CRAN): 1.4.1
+- DelayedArray (R/Bioconductor): 0.16.3
+- HDF5Array (R/Bioconductor): 1.18.1
+- TileDBArray (R/Bioconductor): 1.1.3
+- DelayedTensor (GitHub): 0.0.1.9000
 
 # Summary
 ## Memory usage
