@@ -15,10 +15,10 @@ DelayedTensor (GitHub): 0.0.1.9000
 
 # Summary
 ## Memory usage
-![](https://github.com/rikenbit/oocarray_workflow/blob/master/plot/benchmark_memory.png)
+![](https://raw.githubusercontent.com/rikenbit/oocarray_benchmark/main/plot/benchmark_memory.png)
 
 ## Calculation time
-![](https://github.com/rikenbit/oocarray_workflow/blob/master/plot/benchmark_time.png)
+![](https://raw.githubusercontent.com/rikenbit/oocarray_benchmark/main/plot/benchmark_time.png)
 
 # How to reproduce this workflow
 
