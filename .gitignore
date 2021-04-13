@@ -1,0 +1,8 @@
+.DS_Store
+._*
+DelayedTensor
+TileDBArray
+benchmarks
+logs
+profmem
+.snakemake
