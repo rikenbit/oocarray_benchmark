@@ -1,8 +1,10 @@
-.DS_Store
-._*
-DelayedTensor
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.snakemake
+.github
 TileDBArray
-benchmarks
+DelayedTensor-master
 logs
 profmem
-.snakemake

@@ -3,7 +3,7 @@ library(DelayedTensor)
 
 # Setting
 cache.dir(tempdir())
-set_memory_limit(5e10)
+set_memory_limit(5e9)
 
 # Array
 set.seed(12345)
